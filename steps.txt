@@ -1,0 +1,11 @@
+Set up the initial environment using vite
+npm create vite
+
+Set up chakra ui
+
+Build the responsive layout
+Add a NavBar
+Implement the Dark mode
+
+Get API Key
+Install axios (npm i axios)
