@@ -16,6 +16,7 @@ export interface Game {
     background_image: string;
     parent_platforms: { platform: Platform }[] // Design Smell
     metacritic: number;
+    rating_top: number;
   }
 
 
